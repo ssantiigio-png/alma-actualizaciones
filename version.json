@@ -1,7 +1,7 @@
 {
-  "numero": 5,
-  "texto": "Prototipo 5 · versión 5 (13/11/2026)",
-  "notas": "Revisión de seguridad: más cuidados al cortar internet, al limpiar temporales y cuando el permiso lo da otra cuenta. Se puede apagar la búsqueda automática de actualizaciones.",
+  "numero": 6,
+  "texto": "Prototipo 5 · versión 6 (13/11/2026)",
+  "notas": "Arreglo: con el modo monitor prendido, al tocar ALMA ya no desaparece y vuelve a aparecer antes de abrirse.",
   "exe": "https://raw.githubusercontent.com/ssantiigio-png/alma-actualizaciones/main/Alma.exe",
-  "sha256": "753c27feaf2bd91f5101111b7b0ad13a87f0ebdfdf0ca02495940af1d9cd8920"
+  "sha256": "c89b4056908c7c017893836aaccf767fd270c710bf061f90b3d386e428f11156"
 }
