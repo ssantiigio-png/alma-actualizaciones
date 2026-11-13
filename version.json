@@ -1,7 +1,7 @@
 {
-  "numero": 4,
-  "texto": "Prototipo 5 · versión 4 (13/11/2026)",
-  "notas": "El modo monitor avisa con una notificación cuando la PC está por cerrar programas o tildarse (sin sonido por ahora). El modo mantenimiento es más seguro. Arreglos chicos.",
+  "numero": 5,
+  "texto": "Prototipo 5 · versión 5 (13/11/2026)",
+  "notas": "Revisión de seguridad: más cuidados al cortar internet, al limpiar temporales y cuando el permiso lo da otra cuenta. Se puede apagar la búsqueda automática de actualizaciones.",
   "exe": "https://raw.githubusercontent.com/ssantiigio-png/alma-actualizaciones/main/Alma.exe",
-  "sha256": "79eddf61c73340d9409adcff8a9f6a7ff3a41b3a31813b727d330b826aeaaf68"
+  "sha256": "753c27feaf2bd91f5101111b7b0ad13a87f0ebdfdf0ca02495940af1d9cd8920"
 }
