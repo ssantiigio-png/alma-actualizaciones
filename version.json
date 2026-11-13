@@ -1,0 +1,7 @@
+{
+  "numero": 2,
+  "texto": "Prototipo 5 · versión 2 (13/11/2026)",
+  "notas": "Modo monitor (tercer botón debajo del núcleo), revisión de la conexión en Rescate, Windows Update y Defender dentro de ALMA, una sola ALMA abierta, registro de errores, opciones que se recuerdan y actualizaciones desde ALMA.",
+  "exe": "https://raw.githubusercontent.com/ssantiigio-png/alma-actualizaciones/main/Alma.exe",
+  "sha256": "465368447b1e6a3353b645baa0a44c60b431fd8d69ac052321b24baf8ab55175"
+}
