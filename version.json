@@ -1,7 +1,7 @@
 {
-  "numero": 3,
-  "texto": "Prototipo 5 · versión 3 (13/11/2026)",
-  "notas": "El modo monitor ahora avisa con una notificación (y un sonido suave) cuando la PC está por cerrar programas o tildarse, incluso si estás jugando. El modo mantenimiento es más seguro. Arreglos chicos.",
+  "numero": 4,
+  "texto": "Prototipo 5 · versión 4 (13/11/2026)",
+  "notas": "El modo monitor avisa con una notificación cuando la PC está por cerrar programas o tildarse (sin sonido por ahora). El modo mantenimiento es más seguro. Arreglos chicos.",
   "exe": "https://raw.githubusercontent.com/ssantiigio-png/alma-actualizaciones/main/Alma.exe",
-  "sha256": "ffecfa8750211a20880d60c9918b9aa39657f3ce625dfaf7ac41aace054d5763"
+  "sha256": "79eddf61c73340d9409adcff8a9f6a7ff3a41b3a31813b727d330b826aeaaf68"
 }
